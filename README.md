@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a cross-platform mobile app using React Native and Expo<br>📚 I'm currently learning mobile development<br>👯 I’m looking to collaborate on any kind of software development or machine learning!<br>🎯 Goals: Exploring other interesting fields in computer science, such as cloud engineering</p>
+
+<h7 align="left">🔭 I’m currently working on a cross-platform mobile app using React Native and Expo<br>📚 I'm currently learning mobile development<br>👯 I’m looking to collaborate on any kind of software development or machine learning!<br>🎯 Goals: Exploring other interesting fields in computer science, such as cloud engineering</p>
 
 ###
 
